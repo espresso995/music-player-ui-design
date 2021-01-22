@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MusicPlayerUIDesign</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="_1_37">1:37</string>
+    <string name="_4_12">4:12</string>
+    <string name="la_giuong">La Giuong</string>
+    <string name="hue_van_con_thuong">Hue Van Con Thuong</string>
+    <string name="nhu_quynh">Nhu Quynh</string>
+    <string name="now_playing">Now playing</string>
 </resources>
